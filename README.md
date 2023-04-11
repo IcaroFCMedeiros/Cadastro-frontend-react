@@ -1,3 +1,15 @@
+# Cadastro de usuários criado a partir do React App
+
+Aplicação criada com divisões de componentes, com duas telas, inclusive criando uma API e back-end consultado com AXIOS e CORS.
+
+Ferramentas utilizadas: Axios, Cors, UUID, Express, Nodemon, Insomnia, Rotas, HTML e CSS.
+
+Video demonstrativo:
+https://github.com/IcaroFCMedeiros/Cadastro-frontend-react/raw/main/src/assets/20230411_065311.mp4
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
